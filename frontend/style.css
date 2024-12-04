@@ -1,0 +1,26 @@
+*{
+    margin:0%;
+}
+h2{
+color:rgb(175, 105, 13);
+}
+body{
+    
+    font-size: x-large;
+    line-height: 2em;
+}
+.box
+{
+    margin:20px;
+    width:90%;
+    background-color: blue; 
+    border:5px red solid;
+    padding:10px;
+    letter-spacing: 0.2em;
+    word-spacing:1em;
+}
+.box2 {
+    border:1px orange dotted;
+    text-align:center;
+    
+}
